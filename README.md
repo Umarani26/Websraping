@@ -13,9 +13,3 @@ This repository is part of my continuous learning journey in Python and data ana
 •	Stores results in a Python list for further use
 •	Optionally converts the data into a Pandas DataFrame for easy analysis or CSV export
 
-**Getting Started**
-Clone the repository and install dependencies:
-```bash
-git clone [https://github.com/Umarani26/simple-webscraper.git](https://github.com/Umarani26/simple-webscraper.git)
-cd simple-webscraper
-pip install -r requirements.txt
